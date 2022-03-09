@@ -1289,3 +1289,56 @@ a > img.fh5co-align-center {
 }
 
 /*# sourceMappingURL=style.css.map */
+.infoSection
+{
+    padding-top:.75cm;
+    width:700px;
+    height:210px;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.info
+{
+    float:left;
+    width:180px;
+    height:210px;
+}
+
+.photo
+{
+    float:right;
+    width:520px;
+    height:210px;
+}
+
+.bigText
+{
+    font-size:30px;
+    text-align:left;
+    color:#666666;
+    font-family:helvetica;
+    font-weight:lighter;
+}
+
+.infoText
+{
+    font-size:14px;
+    text-align:left;
+    color:#666666;
+    font-family:helvetica;
+    font-weight:lighter;
+}
+
+.hobbiesTitle
+{
+    padding-top:.5cm;
+    width:700px;
+    font-size:14px;
+    text-align:left;
+    color:#666666;
+    font-family:helvetica;
+    font-weight:lighter;
+    margin-right:auto;
+    margin-left:auto;
+}
